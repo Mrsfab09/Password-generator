@@ -1,6 +1,6 @@
-<img align="left" src="Password Generator.png" alt="password-generator">
+<img src="Password Generator.png" alt="password-generator">
 <br>
-I present to you a password generator that allows you to choose the entire password configuration and customize it to yourself. This is my first python project and I'm still learning 😉<br><br><br>
+I present to you a password generator that allows you to choose the entire password configuration and customize it to yourself. This is my first python project and I'm still learning 😉<br><br>
 
 ## Installation
 
